@@ -1,0 +1,6 @@
+com/regular/hospitals/controller/HospitalController.class
+com/regular/hospitals/service/HospitalServiceImpl.class
+com/regular/hospitals/dao/HosptialDAOImpl.class
+com/regular/hospitals/service/HospitalService.class
+com/regular/hospitals/dto/HosptialDetailsDTO.class
+com/regular/hospitals/dao/HospitalDAO.class
