@@ -1,0 +1,6 @@
+com/shiv/springmvcdev/dao/YuluDAOImpl.class
+com/shiv/springmvcdev/dao/YuluDAO.class
+com/shiv/springmvcdev/service/ServiceDAO.class
+com/shiv/springmvcdev/service/YuluServiceImpl.class
+com/shiv/springmvcdev/dto/YuluDTO.class
+com/shiv/springmvcdev/controller/YuluController.class
